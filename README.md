@@ -12,10 +12,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| YARA Rule Creation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Arjun-Arju/Virtual-SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/blob/main/README.md">Virtual SOC Lab for Security Monitoring and Attack Simulation</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Arjun-Arju/Virtual-SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/blob/main/README.md">Virtual SOC Lab for Security Monitoring and Attack Simulation</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Arjun-Arju/Virtual-SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/blob/main/README.md">Virtual SOC Lab for Security Monitoring and Attack Simulation</a>|
+| YARA Rule Creation | <a href="https://github.com/Arjun-Arju/Virtual-SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/blob/main/README.md">Virtual SOC Lab for Security Monitoring and Attack Simulation</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
