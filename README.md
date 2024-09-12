@@ -18,13 +18,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | YARA Rule Creation | <a href="https://github.com/Arjun-Arju/Virtual-SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/blob/main/README.md">Virtual SOC Lab for Security Monitoring and Attack Simulation</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-1E90FF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+
+
 </div>
 
 ### Endpoint
@@ -38,6 +40,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Vulnerability Assessment And Penetration Testing
+<div>
+   <img src="https://img.shields.io/badge/-Burp%20Suite-FF7F50?style=for-the-badge&logo=burp-suite&logoColor=white" />
 </div>
 
 ## Certifications
