@@ -54,5 +54,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+-  <a href="https://github.com/Arjun-Arju/Virtual-SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/blob/main/README.md">Virtual SOC Lab for Security Monitoring and Attack Simulation</a>
